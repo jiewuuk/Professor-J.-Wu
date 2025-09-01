@@ -1,6 +1,23 @@
-# Professor J. Wu
-I am Professor J. Wu, Chair Professor in Strategy & Entrepreneurship at the University of Aberdeen Business School (UK).  
-My research focuses on strategic management, entrepreneurship, and innovation ecosystems**. I am passionate about bridging academic research, education, and practice through open collaboration.  
+# 👋 Welcome to My GitHub  
+
+<img src="profile.jpg" alt="Profile photo" width="200" align="right" />  
+
+I am Jie Wu, Chair Professor in **Strategy & Entrepreneurship** at the University of Aberdeen Business School (UK).  
+My research focuses on strategic management, entrepreneurship, and innovation ecosystems.  
+I am passionate about bridging academic research, education, and practice through open collaboration.  
+
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue)](#)  
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0000--0000--0000-green)](#)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](#)  
+[![Twitter](https://img.shields.io/badge/Twitter-@YourHandle-1DA1F2)](#)  
+
+---
+
+## 📑 Table of Contents
+1. [Research Interests](#-research-interests)  
+2. [Featured Repositories](#-featured-repositories)  
+3. [Collaboration](#-collaboration)  
+4. [Connect with Me](#-connect-with-me)  
 
 ---
 
@@ -12,37 +29,28 @@ My research focuses on strategic management, entrepreneurship, and innovation ec
 
 ---
 
-## 📂 Research Projects
-Here I share selected datasets, analysis scripts, and research tools that support open and reproducible scholarship.  
-- 📊 [Strategic Networks Database](#) — Case-based datasets on inter-firm alliances and ecosystems.  
-- 🧩 [Entrepreneurship Case Studies](#) — Structured teaching and research cases for students and practitioners.  
-- 🛠️ [Methods in Strategy Research](#) — R/Python/Stata scripts for network analysis, panel data, and text mining.  
-
----
-
-## 🎓 Teaching Resources
-As part of my commitment to **student development and open education**, I share materials that support experiential learning:  
-- 📘 [Entrepreneurship Simulation Projects](#)  
-- 📈 [Strategy Analysis Tools](#)  
-- 👩‍💻 [GitHub Classroom Projects](#)  
+## 📂 Featured Repositories
+- 📊 [Research-Projects](https://github.com/YourUsername/Research-Projects)  
+- 🎓 [Teaching-Resources](https://github.com/YourUsername/Teaching-Resources)  
+- 📘 [Case-Studies](https://github.com/YourUsername/Case-Studies)  
+- 🛠️ [Methods-in-Strategy](https://github.com/YourUsername/Methods-in-Strategy)  
 
 ---
 
 ## 🌍 Collaboration
-I collaborate globally with scholars and institutions on **entrepreneurship ecosystems, strategic innovation, and digital transformation**.  
-- 🤝 Interested in research partnerships  
-- 🚀 Open to PhD student supervision & postdoc mentoring  
-- 📡 Engaged in industry–academia knowledge exchange  
+- 🤝 Research partnerships on entrepreneurship ecosystems, strategic innovation, and digital transformation  
+- 🚀 PhD supervision & postdoc mentoring opportunities  
+- 📡 Industry–academia knowledge exchange  
 
 ---
 
 ## 📫 Connect with Me
 - 🌐 [University Profile](#)  
-- 📄 [Google Scholar](https://scholar.google.com/citations?user=dcF8rf0AAAAJ&hl=en)  
-- 🔗 [ORCID](https://orcid.org/0000-0002-4289-4204)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/jie-wu-6a0b30241/)  
+- 📄 [Google Scholar](#)  
+- 🔗 [ORCID](#)  
+- 💼 [LinkedIn](#)  
 - 🐦 [Twitter/X](#)  
 
 ---
 
-⭐️ If you find my resources useful, feel free to **follow me on GitHub** and collaborate!
+⭐️ If you find my resources useful, please **follow me on GitHub** and explore collaboration opportunities!
